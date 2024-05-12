@@ -5,7 +5,7 @@ DSA Major Assignment
 ## Installation
 
 ### Clone the repository
-
+git clone https://github.com/Osmanileri/dsa-assignment2.git
 ### To execute any of the given problems, follow these commands:
 
 - For the **_1st problem_**  
